@@ -7,7 +7,7 @@
 
   `jupyter notebook`
   
-3. run all cells
+3. run all cells in 'TEMPLATE-reddit.ipynb'
 
 
 # Downloads Reddit Data 
