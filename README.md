@@ -1,7 +1,7 @@
 # All-You-Can-Scrape-Buffet
 ## TEMPLATE - reddit
 
-1. add your reddit api to the stop part of `scrape_reddit.py`
+1. add your reddit api to the top part of `scrape_reddit.py`
 
 2. launch a jupyter notebook from the terminal
 
