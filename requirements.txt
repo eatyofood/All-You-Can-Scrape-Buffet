@@ -1,0 +1,9 @@
+string
+re
+cufflinks 
+nltk 
+praw
+pandas 
+os
+datetime 
+pandas_datareader
